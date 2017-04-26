@@ -7,4 +7,4 @@ Adaptable vehicule to almost any situation, maneuverable, and highly modulable r
 
 Meant to be substainable, highly energetic efficient and adaptable on any situation.
 
-Based on http://halo.wikia.com/wiki/Civilian_Warthog https://www.halopedia.org/M12_Warthog
+Based on http://halo.wikia.com/wiki/Civilian_Warthog, https://www.halopedia.org/M12_Warthog

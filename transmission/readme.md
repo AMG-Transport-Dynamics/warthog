@@ -6,4 +6,5 @@ A belt-driven design offers approximately 88% efficiency, which, while lower tha
 
 ### More informations
 
-[Understanding CVT](https://www.youtube.com/watch?v=PEq5_b4LWNY)
+[Understanding CVT](https://www.youtube.com/watch?v=PEq5_b4LWNY), 
+[CVTs comparaison](https://www.youtube.com/watch?v=cb6rIZfCuHI)
